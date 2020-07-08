@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Duty Calculator</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="not_registered">Not Registered ?</string>
+    <string name="register">REGISTER</string>
+    <string name="have_an_account">Have an account</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="CIF">CIF</string>
+    <string name="fob">FOB</string>
+    <string name="freight">FREIGHT COST</string>
+    <string name="spHscode">HS CODE</string>
+    <string name="calculate">CALCULATE DUTY</string>
+    <string name="hscode">Select Item Below HS code</string>
+    <string name="exchange">$1 = 360 NGN</string>
+</resources>
